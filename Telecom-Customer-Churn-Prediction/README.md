@@ -35,19 +35,13 @@ The project is structured as follows:
    cd TelecomCustomerChurnPrediction
    ```
 
-2. **Install the Required Libraries:**
-   Install the necessary libraries by running:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run the Jupyter Notebook:**
+2. **Run the Jupyter Notebook:**
    Open the Jupyter Notebook and run the cells sequentially:
    ```bash
    jupyter notebook TelecomCustomerChurnPrediction.ipynb
    ```
 
-4. **Analyze the Results:**
+3. **Analyze the Results:**
    Follow the steps in the notebook to load the data, preprocess it, develop models, evaluate their performance, and interpret the results.
 
 ## Results and Insights
@@ -57,7 +51,3 @@ The project provides detailed steps to predict customer churn using various mach
 ## Authors
 
 - Vidya Praveen
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
