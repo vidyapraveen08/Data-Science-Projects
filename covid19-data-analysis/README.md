@@ -64,3 +64,7 @@ The data is scraped from [Worldometer](https://www.worldometers.info/), a websit
 * Line plots for confirmed cases and fatalities
 * Heatmaps for country-wise data
 * Interactive visualizations using Plotly
+
+## Authors
+
+- Vidya Praveen
