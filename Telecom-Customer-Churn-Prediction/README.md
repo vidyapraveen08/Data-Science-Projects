@@ -31,8 +31,9 @@ The project is structured as follows:
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository_url>
-   cd TelecomCustomerChurnPrediction
+   git clone https://github.com/vidyapraveen08/Data-Science-Projects/tree/main/Telecom-Customer-Churn-Prediction
+   cd Telecom-customer-churn-prediction
+   cd notepads
    ```
 
 2. **Run the Jupyter Notebook:**

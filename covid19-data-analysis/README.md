@@ -27,18 +27,19 @@ You can install these dependencies using pip:
 
 ```bash
 pip install numpy pandas requests beautifulsoup4 lxml matplotlib seaborn plotly scikit-learn
-
+```
 
 ## Steps to Run the Project
 
 1. **Clone the Repository: Clone the repository to your local machine.**
 ```bash
-    git clone https://github.com/yourusername/Covid19DataAnalysis.git
+    git clone https://github.com/vidyapraveen08/Data-Science-Projects/tree/main/Telecom-Customer-Churn-Prediction
 ```
 
 2. **Navigate to the Project Directory:**
 ```bash
-cd Covid19DataAnalysis
+cd covid19-data-analysis
+cd notepads
 ```
 
 3. **Run the Jupyter Notebook: Open the Jupyter Notebook and run the cells:**
