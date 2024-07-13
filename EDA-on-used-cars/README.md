@@ -42,8 +42,9 @@ The project consists of the following files:
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/vidyapraveen08/Data-Science-Projects/tree/main/eda-on-used-cars
+   cd eda-on-used-cars
+   cd notepads
     ```
 
 2. Create and activate a virtual environment:
@@ -52,26 +53,18 @@ The project consists of the following files:
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
     ```
 
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4. Launch Jupyter Notebook:
+3. Launch Jupyter Notebook:
     ```bash
     jupyter notebook
     ```
 
-5. Open and run the `ProjectCode.ipynb` notebook to execute the analysis.
+4. Open and run the `ProjectCode.ipynb` notebook to execute the analysis.
 
 ## Usage
 
 The main analysis is contained within the Jupyter notebook `ProjectCode.ipynb`. Open the notebook and run the cells to perform the analysis and generate visualizations.
 
-## License
+## Authors
 
-This project is licensed under the GNU GPLv3 License - see the [LICENSE](LICENSE) file for details.
+- Vidya Praveen
 
-## Acknowledgements
-
-This project utilizes code from "Think Stats" and "Think Bayes" by Allen B. Downey, available from [Green Tea Press](http://greenteapress.com).
