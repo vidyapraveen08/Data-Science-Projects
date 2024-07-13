@@ -7,6 +7,23 @@ This project analyzes cricket match data, focusing on matches played in the Asia
 
 ## Installation
 
+Clone the repository to your local machine:
+    ```bash
+    git clone https://github.com/vidyapraveen08/Data-Science-Projects/tree/main/analysis-on-cricket-match-performance
+   cd analysis-on-cricket-match-performance
+   cd notepads
+    ```
+Create and activate a virtual environment:
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+    ```
+
+Launch Jupyter Notebook:
+    ```bash
+    jupyter notebook
+    ```
+
 To run this project, you need to have Python installed along with the following libraries:
 - pandas
 - numpy
