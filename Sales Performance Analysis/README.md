@@ -73,6 +73,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 5. Review the `DSC680-Week7Assignment_VidyaPraveen.pdf` report for a detailed understanding of the project.
 6. Watch the `Sales Performance Analysis.mp4` video presentation for a summary of the key findings.
 
-## License
+## Authors
 
-This project is licensed under the MIT License.
+- Vidya Praveen
+

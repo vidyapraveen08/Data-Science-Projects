@@ -70,6 +70,6 @@ pip install pandas numpy matplotlib seaborn nltk scikit-learn
 4. Run the notebook cells to reproduce the analysis.
 5. Review the `DSC680-Project3-FinalReport.pdf` report for a detailed understanding of the project.
 
-## License
+## Authors
 
-This project is licensed under the MIT License.
+- Vidya Praveen
