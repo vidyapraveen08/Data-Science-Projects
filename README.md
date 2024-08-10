@@ -57,9 +57,9 @@ Predict customer churn in the telecommunications sector using machine learning m
 
 This project analyzes retail sales tax data by county and city, using machine learning models like Linear Regression, ARIMA, and SARIMA to predict taxable sales. The analysis includes data preprocessing, visualization, and model evaluation. Final deliverables include a comprehensive report, code documentation, and a video presentation summarizing key findings.
 
-[GitHub Repository Link](https://github.com/vidyapraveen08/Data-Science-Projects/tree/main/predicting-telecom-customer-churn-done)
+[GitHub Repository Link](https://github.com/vidyapraveen08/Data-Science-Projects/tree/main/Sales%20Performance%20Analysis)
 
 ### 10. Sentiment Analysis of Amazon Product Reviews
 This project utilizes NLP techniques to analyze customer sentiments in Amazon product reviews. The analysis includes data preprocessing, text normalization, and machine learning models like Logistic Regression, Naive Bayes, and LSTM to classify sentiments. Visualizations of sentiment trends and model evaluations are also provided. Final deliverables include a comprehensive report and code documentation.
 
-[GitHub Repository Link](https://github.com/vidyapraveen08/Data-Science-Projects/tree/main/predicting-telecom-customer-churn-done)
+[GitHub Repository Link](https://github.com/vidyapraveen08/Data-Science-Projects/tree/main/Sentiment%20Analysis)
